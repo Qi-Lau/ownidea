@@ -1,5 +1,5 @@
 # ownidea
-In the customerchurn folder:
+Note: In the customerchurn folder:
 <br>
 churnpre_nn.ipynb was applied neural network for classification of customer churn；
 <br>
